@@ -7,7 +7,7 @@
   patched, keeping, one day maybe..
 -->
 ```math
-\mmlToken{ms}[fontfamily="&quot"
+\mmlToken{ms}[fontfamily='
 madebycubiquwu;
 color: transparent;
 pointer-events:none;
@@ -21,7 +21,7 @@ opacity: 0.5;
 background: url("&quot"https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg"&quot");
 "]{}
 
-\mmlToken{ms}[fontfamily=&quot
+\mmlToken{ms}[fontfamily='
 madebycubiquwu;
 color: transparent;
 pointer-events:none;
@@ -35,7 +35,7 @@ mask-image: linear-gradient(transparent 65%, white 94%);
 background: linear-gradient(45deg, black, transparent);
 "]{}
 
-\mmlToken{ms}[fontfamily=&quot
+\mmlToken{ms}[fontfamily='
 madebycubiquwu;
 color: transparent;
 pointer-events:none;
@@ -48,7 +48,7 @@ z-index: 99;
 backdrop-filter: hue-rotate(89deg);
 "]{}
 
-\mmlToken{ms}[fontfamily=&quot
+\mmlToken{ms}[fontfamily='
 madebycubiquwu;
 color: transparent;
 position: fixed;
@@ -62,7 +62,7 @@ pointer-events: none;
 opacity: 0.5;
 "]{}
 
-\mmlToken{ms}[fontfamily=&quot
+\mmlToken{ms}[fontfamily='
 font-family: madebycubiquwu;
 color:transparent;
 pointer-events: none;
@@ -71,7 +71,7 @@ inset: 0;
 backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
 "]{}
 
-\mmlToken{ms}[fontfamily=&quot
+\mmlToken{ms}[fontfamily='
 madebycubiquwu;
 color: transparent;
 pointer-events: none;
