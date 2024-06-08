@@ -1,9 +1,5 @@
 ## it has happened again
 
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mycpphurts&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 # Have fun~!
 ```math 
 \mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-size: cover; background-position: center; background-image: url('https://github.com/KannaDev/KannaDev/blob/main/images/GPcJoCmakAAcWUe.jpg?raw=true'); opacity: 0.3;"]{}
