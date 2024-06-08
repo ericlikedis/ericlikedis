@@ -10,7 +10,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
+background: url('https://github.com/ericlikedis/ericlikedis/blob/main/200w.gif');
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -70,7 +70,7 @@ position: fixed;
 inset: 0;
 z-index: 100;
 font-size: 0.420rem;
-background: url(https://github.com/TheCubiq/TheCubiq/blob/main/ignore.gif?raw=true);
+background: url(https://github.com/ericlikedis/ericlikedis/blob/main/200w.gif?raw=true);
 background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
