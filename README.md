@@ -1,55 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericlikedis)](https://github.com/anuraghazra/github-readme-stats)
-
-- 👋 Hi, I’m @ericlikediss
-- 👀 I’m a Detection Engineer @ Fortune 50 company
-- 🌱 I’m currently operating in the Cloud domain 
-- things. 
-
-<!-- # <p  align="center"> ༺  ![:vizzy: ](https://cdn.discordapp.com/emojis/855518015553929236.png?quality=lossless&size=48 ) ![:arcWhite:](https://i.imgur.com/in6Uqg3.png ) ![:svelte:](https://cdn.discordapp.com/emojis/764128238225195059.png?quality=lossless&size=48) ![:cloudkid:](https://i.imgur.com/LGnaTIz.png) ![:fedoraslay:](https://cdn.discordapp.com/emojis/1114124802014322749.png?quality=lossless&size=48) ![:spline:](https://cdn.discordapp.com/emojis/887386191412998164.png?quality=lossless&size=48) ༻ </p> -->
-
-<h1 align="center">
-  <span>༺</span>
-  <a href="https://vizzy.cubiq.dev" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/5n98woC.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/NovXoL9.png">
-      <img alt="Vizzy" src="https://i.imgur.com/5n98woC.png">
-    </picture>
-  </a>
-  <a href="https://arc.net/" target="_blank">
-  <picture>
-  	<source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/yfh19VV.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/WF96E9W.png">
-    <img alt="Arc Browser" src="https://cdn.discordapp.com/emojis/1016905341218328596.png?quality=lossless&size=48">
-  </picture>
-  </a>
-  <a href="https://svelte.dev/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/ov46xih.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/YSsNujB.png">
-    <img alt="Svelte" src="https://i.imgur.com/ov46xih.png">
-  </picture>
-  </a>
-  <a href="https://www.youtube.com/cloudkid" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gZKi6iH.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/foCaUio.png">
-    <img alt="Cloudkid" src="https://i.imgur.com/gZKi6iH.png">
-  </picture>
-  </a>
-  <a href="https://fedoraproject.org/" target="_blank">
-    <img alt="Fedora-slay" src="https://i.imgur.com/e6a3t4p.png">
-  </a>
-  <a href="https://spline.design/" target="_blank">
-    <img alt="Spline" src="https://i.imgur.com/0VASlKm.png">
-  </a>
-  <span>༻</span>
-</h1>
-
 ```math
 \mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
+goombafont;
+color:red;
 pointer-events:none;
 z-index: -11;
 position: fixed;
@@ -62,10 +14,10 @@ background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/back
 "]{}
 
 \mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
+goombafont;
+color:red;
 pointer-events:none;
-z-index: 999;
+z-index: -10;
 position: fixed;
 inset:0;
 object-fit: cover;
@@ -76,8 +28,8 @@ background: linear-gradient(45deg, black, transparent);
 "]{}
 
 \mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
+goombafont;
+color:red;
 pointer-events:none;
 z-index: -10;
 position: fixed;
@@ -89,11 +41,10 @@ backdrop-filter: hue-rotate(89deg);
 "]{}
 
 \mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
+font-family: goombafont;
 position: fixed;
 inset: 0;
-z-index: 1000;
+z-index: 100;
 font-size: 0.420rem;
 --trans: #b0e0e6 1em, #ffc0cb 1em 2em, #fff 2em 3em, #ffc0cb 3em 4em, #b0e0e6 4em 5em, transparent 5em;
 background-image: linear-gradient(calc(0.375turn* 5), var(--trans));
@@ -103,8 +54,8 @@ opacity: 0.5;
 "]{}
 
 \mmlToken{ms}[fontfamily="
-font-family: madebycubiquwu;
-color:transparent;
+font-family: goombafont;
+color:red;
 pointer-events: none;
 position: fixed;
 inset: 0;
@@ -112,8 +63,8 @@ backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
 "]{}
 
 \mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
+goombafont;
+color: red;
 pointer-events: none;
 position: fixed;
 inset: 0;
@@ -125,8 +76,6 @@ background-size: contain;
 opacity: 0.02;
 background-position-x: center;
 "]{}
+
+\mmlToken{mi}[fontfamily=";cursor:url(/djdisodo/djdisodo/blob/master/cursor.png?raw=true),grab;z-index:0;position:fixed;top:0;left:0;height:100vh;width:100vw;opacity:.1;background:url(/bribes/bribes/blob/main/1.gif?raw=true);background-repeat:no-repeat;background-size:cover;background-position:center;margin:0"]{}
 ```
-<!---
-ericlikedis/ericlikedis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
