@@ -7,7 +7,7 @@
   patched, keeping, one day maybe..
 -->
 ```math
-\mmlToken{ms}[fontfamily="
+\mmlToken{ms}[fontfamily="&quot"
 madebycubiquwu;
 color: transparent;
 pointer-events:none;
