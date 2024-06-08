@@ -1,5 +1,4 @@
-
-```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://github.com/ericlikedis/ericlikedis/blob/main/200w.gif?raw=true');]{x0000}$}```
+# Credit: [TheCubiq](https://github.com/TheCubiq/TheCubiq)
 
 ```math
 \mmlToken{ms}[fontfamily="
@@ -13,7 +12,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://github.com/ericlikedis/ericlikedis/blob/main/200w.gif');
+background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -73,7 +72,7 @@ position: fixed;
 inset: 0;
 z-index: 100;
 font-size: 0.420rem;
-background: url(https://github.com/ericlikedis/ericlikedis/blob/main/200w.gif?raw=true);
+background: url(https://github.com/TheCubiq/TheCubiq/blob/main/ignore.gif?raw=true);
 background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
