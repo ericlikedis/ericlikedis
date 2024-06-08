@@ -18,7 +18,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url(&quothttps://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg&quot);
+background: url("&quot"https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg"&quot");
 "]{}
 
 \mmlToken{ms}[fontfamily=&quot
