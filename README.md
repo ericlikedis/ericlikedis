@@ -3,3 +3,6 @@
 hi lol
 
 see my blog at: https://ericlikedis.github.io
+
+lately ive been contributing more to my personal blog. 
+however, i'd like to begin exploring my own security research relating to privacy & security. 
